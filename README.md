@@ -1,3 +1,3 @@
 ## This is a temporary folder for the projects done in DAND.
-## Changes will constantly be added. 
+## Changes will be added. 
 ## TEMPORARY
